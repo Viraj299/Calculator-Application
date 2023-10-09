@@ -1,0 +1,11 @@
+{
+  "name": "Simple Calculator App",
+  "version": "1.0.0",
+  "description": "This is extension to calculate complex operations",
+  "manifest_version": 3,
+  "author": "Viraj D. Utekar",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Simple Calculator App"
+  }
+}
